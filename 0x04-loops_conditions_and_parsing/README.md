@@ -1,1 +1,1 @@
-This project is about Loops, conditions and parsing
+loops and condition devops
